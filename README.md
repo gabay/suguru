@@ -13,6 +13,7 @@ It is similar to [Nonomino](https://en.wikipedia.org/wiki/Nonomino).
 
 ```bash
 pip install suguru[pygame]
+suguru
 ```
 
 #  Development
